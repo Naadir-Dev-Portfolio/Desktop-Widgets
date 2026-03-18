@@ -1,0 +1,15 @@
+{
+  "section": "python",
+  "category": "desktop",
+  "n": 6,
+  "title": "Desktop Widgets",
+  "desc": "Collection of always-on-top PyQt6 overlay widgets — BTC ticker, SPY/FTSE/Treasuries charts, crypto alerts, news reader, health tracker, mortgage calc and more.",
+  "code": "https://github.com/Naadir-Dev-Portfolio/Desktop-Widgets",
+  "details": "https://github.com/Naadir-Dev-Portfolio/Desktop-Widgets/blob/main/README.md",
+  "tags": [
+    "python",
+    "pyqt",
+    "crypto",
+    "api"
+  ]
+}
